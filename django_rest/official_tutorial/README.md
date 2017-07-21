@@ -1,3 +1,8 @@
+### Install requirements:
+```
+pip install -r requirements.txt
+```
+
 ### Database configuration:
 
 ```
