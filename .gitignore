@@ -1,7 +1,3 @@
-*.iml
-misc.xml
-modules.xml
-vcs.xml
+.idea
 olegs_bogdanovs.xml
 preferred-vcs.xml
-profiles_settings.xml
